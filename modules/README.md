@@ -1,4 +1,4 @@
-# Environment
+# Modules
 
-The OLCC2025.yml file is the environment I set up for my WSL Ubuntu miniconda environment. All dependencies were added via conda-forge.
-I used the --from-history flag to improve cross platform compatibility.
+Modules are Jupyter notebooks that you will use throughout the course of the summer. I will update you if I have
+ changed files and require you to download them once again.
